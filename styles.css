@@ -1,12 +1,12 @@
 /*FONTS*/
 @font-face {
     font-family: 'Gotham';
-    src: url('Gotham-Font/GothamBold.ttf');
+    src: url('GothamBold.ttf');
 }
 
 @font-face {
     font-family: 'GothamBlack';
-    src: url('Gotham-Font/Gotham-Black.otf');
+    src: url('Gotham-Black.otf');
 }
 
 @font-face {
@@ -38,6 +38,7 @@ body{
     overflow-x: hidden;
     color: white;
     background-color: black;
+    width: 100vw;
 }
 
 /*OVERLAY -- Covers the whole screen when navbar is open*/
